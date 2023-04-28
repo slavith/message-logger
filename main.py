@@ -9,7 +9,7 @@ from colorama import Fore
 colorama.init(autoreset=True)
 
 
-your_webhook = "https://discord.com/api/webhooks/1101504342240014417/PyTumBJNIMLRn0LIyNtr2515jPqIX5UhcylQrg3VXPGgN5PZ68BtHBFXYoXSWfPrqd8y"
+your_webhook = ""
 
 
 intents = discord.Intents.default()
